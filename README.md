@@ -66,7 +66,6 @@
         <a href="https://www.linkedin.com/in/rockyhaque/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
-        
     </p>
 </details>
 <br>
