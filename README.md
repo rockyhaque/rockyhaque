@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/rockyhaque/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="rockyhaque" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rocky_haque10" target="blank"><img src="https://img.shields.io/twitter/follow/rocky_haque10?logo=twitter&style=for-the-badge" alt="rocky_haque10" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, React, MongoDB & Node.js etc...**
 
