@@ -4,7 +4,82 @@
                 <b><a target="_blank" href="https://rockyhaque.github.io/">Rocky Haque</a></b>
         </samp>
 </h1>
-<h3 align="center">A passionate Software Engineer | Exploring the Boundless Horizons of Code | Transforming Ideas into Web Realities</h3>
+<p align="center">
+        <!-- Intro -->
+        <samp>
+                「 A passionate Software Engineer | Exploring the Boundless Horizons of Code | Transforming Ideas into Web Realities 」
+                <br>
+                <br>
+        </samp>
+        <!-- Technologies -->
+        <!-- JavaScript -->
+        <a href="https://github.com/rockyhaque?tab=repositories" target="_blank"><img alt="JavaScript"
+                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+        </a>
+        <!-- React -->
+        <a href="https://github.com/rockyhaque?tab=repositories" target="_blank"><img alt="React"
+                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
+        </a>
+        <!-- NextJS -->
+        <a href="https://github.com/rockyhaque?tab=repositories" target="_blank"><img alt="NextJS"
+                        src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
+        </a>
+        <!-- TailwindCSS -->
+        <a href="https://github.com/rockyhaque?tab=repositories" target="_blank"><img alt="TailwindCSS"
+                        src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
+        </a>
+        <!-- Node.js -->
+        <a href="https://github.com/rockyhaque?tab=repositories" target="_blank">
+            <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+        </a>
+        <!-- Express.js -->
+        <a href="https://github.com/rockyhaque?tab=repositories" target="_blank">
+            <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white">
+        </a>
+        <!-- MongoDB -->
+        <a href="https://github.com/rockyhaque?tab=repositories" target="_blank">
+            <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+        </a>
+
+
+</p>
+
+<!-- Details Section -->
+<details align="center">
+    <summary> <samp>&#9776; More</samp></summary>
+    <p align="center">
+        <br>
+        <!-- Activity Widget -->
+        <img alt="Rocky Haque's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=rockyhaque&show_icons=true&theme=radical" />
+        <br>
+        <!-- Social Links -->
+        <p>Find me on</p>
+        <!-- Mail -->
+        <a href="mailto:connect.rockyhaque71@gmail.com" target="_blank"><img alt="Mail"
+                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+        <!-- Twitter -->
+        <a href="https://twitter.com/rockyhaque10" target="_blank"><img alt="Twitter"
+                src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
+        </a>
+        <!-- Linkedin -->
+        <a href="https://www.linkedin.com/in/rockyhaque/" target="_blank"><img alt="Linkedin"
+                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        </a>
+        
+    </p>
+</details>
+<br>
+
+<!-- Footer -->
+<samp>
+    <p align="center">
+        »»——⍟——««
+        <br>
+        
+    </p>
+</samp>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rockyhaque10&label=Profile%20views&color=0e75b6&style=flat" alt="rockyhaque10" /> </p>
