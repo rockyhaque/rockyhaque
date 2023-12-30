@@ -1,8 +1,8 @@
-<h1 align="center">
-        <samp>&gt; Hey There! This is
-                <b><a target="_blank" href="https://rockyhaque.github.io/">Rocky Haque</a></b>
+<h2 align="center">
+        <samp>𓇻 Hey There! This is
+                <b><a target="_blank" href="https://rockyhaque.github.io/">Rocky Haque</a></b> 𓇻
         </samp>
-</h1>
+</h2>
 <p align="center">
         <!-- Intro -->
         <samp>
