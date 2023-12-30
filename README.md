@@ -1,5 +1,9 @@
 ![MasterHead](https://en.bloggif.com/tmp/704ee4b378c9f72a2a58ec402d509b66/text.gif?1701795480)
-<h1 align="center">Hey 👋! This is Rocky</h1>
+<h1 align="center">
+        <samp>&gt; Hey There! This is
+                <b><a target="_blank" href="https://rockyhaque.github.io/">Rocky Haque</a></b>
+        </samp>
+</h1>
 <h3 align="center">A passionate Software Engineer | Exploring the Boundless Horizons of Code | Transforming Ideas into Web Realities</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
