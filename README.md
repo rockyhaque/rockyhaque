@@ -1,4 +1,3 @@
-![MasterHead](https://en.bloggif.com/tmp/704ee4b378c9f72a2a58ec402d509b66/text.gif?1701795480)
 <h1 align="center">
         <samp>&gt; Hey There! This is
                 <b><a target="_blank" href="https://rockyhaque.github.io/">Rocky Haque</a></b>
