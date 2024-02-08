@@ -58,10 +58,6 @@
         <a href="mailto:connect.rockyhaque71@gmail.com" target="_blank"><img alt="Mail"
                 src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
-        <!-- Twitter -->
-        <a href="https://twitter.com/rockyhaque10" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
-        </a>
         <!-- Linkedin -->
         <a href="https://www.linkedin.com/in/rockyhaque/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
