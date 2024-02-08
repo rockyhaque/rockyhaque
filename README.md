@@ -99,6 +99,8 @@
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rockyhaque&" alt="rockyhaque"/></p>
+
 <p align="center"> <a href="https://github.com/rockyhaque/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rockyhaque&row=1&column=6&theme=onedark" alt="rockyhaque" /></a> </p>
 
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
@@ -108,8 +110,6 @@
 <a href="https://fb.com/rockyhaquee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rockyhaquee" height="30" width="40" /></a>
 <a href="https://twitter.com/rocky_haque10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rocky_haque10" height="30" width="40" /></a>
 </p>
-<br><br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rockyhaque&" alt="rockyhaque"/></p>
 <br><br>
 <h2>Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 <p align="left">
