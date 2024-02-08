@@ -99,6 +99,8 @@
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
+<p align="center"> <a href="https://github.com/rockyhaque/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rockyhaque&row=1&column=6&theme=onedark" alt="rockyhaque" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/rockyhaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/rockyhaque" height="30" width="40" /></a>
