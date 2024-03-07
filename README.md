@@ -39,6 +39,11 @@
         <a href="https://github.com/rockyhaque?tab=repositories" target="_blank">
             <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
         </a>
+        <!-- Mongoose -->
+        <a href="https://github.com/username?tab=repositories" target="_blank">
+            <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white">
+        </a>
+
 
 
 </p>
