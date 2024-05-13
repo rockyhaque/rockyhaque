@@ -78,7 +78,7 @@
         <br><br><br><br>
     </p>
 </samp>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/C9YMVx2/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rockyhaque10&label=Profile%20views&color=0e75b6&style=flat" alt="rockyhaque10" /> </p>
 
