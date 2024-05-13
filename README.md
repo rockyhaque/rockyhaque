@@ -84,7 +84,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/rockyhaque/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="rockyhaque" /></a> </p>
 
-<p style="font-size: 32; font-weight: bold;"> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></p>
+<h2 > About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 <hr>
 
 - 🌱 I’m currently learning **JavaScript, React, MongoDB & Node.js etc...**
