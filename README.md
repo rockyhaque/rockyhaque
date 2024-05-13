@@ -84,7 +84,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/rockyhaque/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="rockyhaque" /></a> </p>
 
-
+<h2> About Me  <img src = "" width="40px" height="40px"></h2>
 
 - 🌱 I’m currently learning **JavaScript, React, MongoDB & Node.js etc...**
 
