@@ -72,28 +72,38 @@
 <br>
 
 <!-- Footer -->
+
+<img align="right" alt="Coding" width="350" height="250px"  src="https://i.ibb.co/C9YMVx2/giphy.gif">
+
 <samp>
     <p align="center">
-        ───※ ·❆· ※───
+        |───※ ·❆· ※───>
         <br><br><br><br>
     </p>
 </samp>
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/C9YMVx2/giphy.gif">
+
+
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rockyhaque10&label=Profile%20views&color=0e75b6&style=flat" alt="rockyhaque10" /> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/rockyhaque/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="rockyhaque" /></a> </p>
 
-<h2 > About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
-<hr>
+## About Me   <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
+
 
 - 🌱 I’m currently learning **JavaScript, React, MongoDB & Node.js etc...**
 
+
 - 👨‍💻 All of my projects are available at [https://github.com/rockyhaque10](https://github.com/rockyhaque)
+
+
 
 - 💬 Ask me about **JavaScript, React, MongoDB & Node.js etc...**
 
 - 📫 How to reach me **rockyhaque71@gmail.com**
+
+
 
 - 📄 Know about my experiences [https://github.com/rockyhaque](https://github.com/rockyhaque)
 
