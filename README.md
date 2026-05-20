@@ -1,146 +1,89 @@
-<h2 align="center">
-        <samp>𓇻 Hey There! This is
-                <b><a target="_blank" href="https://rockyhaque.github.io/">Rocky Haque</a></b> 𓇻
-        </samp>
-</h2>
-<p align="center">
-        <!-- Intro -->
-        <samp>
-                「 A passionate Software Engineer | Exploring the Boundless Horizons of Code | Transforming Ideas into Web Realities 」
-                <br>
-                <br>
-        </samp>
-        <!-- Technologies -->
-        <!-- JavaScript -->
-        <a href="https://github.com/rockyhaque?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-        </a>
-        <!-- React -->
-        <a href="https://github.com/rockyhaque?tab=repositories" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
-        </a>
-        <!-- NextJS -->
-        <a href="https://github.com/rockyhaque?tab=repositories" target="_blank"><img alt="NextJS"
-                        src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
-        </a>
-        <!-- TailwindCSS -->
-        <a href="https://github.com/rockyhaque?tab=repositories" target="_blank"><img alt="TailwindCSS"
-                        src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
-        </a>
-        <!-- Node.js -->
-        <a href="https://github.com/rockyhaque?tab=repositories" target="_blank">
-            <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
-        </a>
-        <!-- Express.js -->
-        <a href="https://github.com/rockyhaque?tab=repositories" target="_blank">
-            <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white">
-        </a>
-        <!-- MongoDB -->
-        <a href="https://github.com/rockyhaque?tab=repositories" target="_blank">
-            <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-        </a>
-        <!-- Mongoose -->
-<!--         <a href="https://github.com/username?tab=repositories" target="_blank">
-            <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white">
-        </a> -->
+<div align="center">
 
+# Rocky Haque
 
+![Profile Views](https://komarev.com/ghpvc/?username=rockyhaque&style=flat-square&color=48f0e7&labelColor=091e27)
 
-</p>
+Software Engineer @ Iqra Wave | Co-Founder @ Ophelia Go
 
-<!-- Details Section -->
-<details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
-    <p align="center">
-        <br>
-        <!-- Activity Widget -->
-        <img alt="Rocky Haque's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=rockyhaque&show_icons=true&theme=radical" />
-        <br>
-        <!-- Social Links -->
-        <p>Find me on</p>
-        <!-- Mail -->
-        <a href="mailto:connect.rockyhaque71@gmail.com" target="_blank"><img alt="Mail"
-                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
-        <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/rockyhaque/" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-        </a>
-    </p>
-</details>
-<br>
+[Website](https://www.rockyhaque.com) • [LinkedIn](https://www.linkedin.com/in/rockyhaque/) • [Email](mailto:info.rockyhaque@gmail.com) • [GitHub](https://github.com/rockyhaque)
 
-<!-- Footer -->
+</div>
 
-<img align="right" alt="Coding" width="350" height="250px"  src="https://i.ibb.co/C9YMVx2/giphy.gif">
+---
 
-<samp>
-    <p align="center">
-        |───※ ·❆· ※───>
-        <br><br><br><br>
-    </p>
-</samp>
+I'm building AI agents, designing cloud systems, and shipping products. Currently working as a Software Engineer at Iqra Wave where I focus on AI-powered applications and scalable infrastructure. On the side, I'm co-founding products at Ophelia Go.
 
+---
 
- 
+## What I Focus On
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rockyhaque10&label=Profile%20views&color=0e75b6&style=flat" alt="rockyhaque10" /> </p>
+**AI & LLMs** – I'm building autonomous agents with Claude and other LLMs. The goal is to create intelligent systems that can handle complex workflows and solve real problems without constant manual intervention.
 
-<p align="left"> <a href="https://www.linkedin.com/in/rockyhaque/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="rockyhaque" /></a> </p>
+**Cloud & Backend Architecture** – Designing reliable, scalable server-side solutions that can handle growth. Whether it's APIs, databases, or infrastructure, I focus on building systems that are fast, secure, and maintainable.
 
-## About Me   <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
+**Product Development** – At Ophelia Go, I'm involved in taking ideas from concept through to production. It's the full journey: ideation, engineering, shipping, and iterating based on user feedback.
 
+**Frontend & Web** – Building modern web experiences with React and Next.js. I care about performance, user experience, and writing code that's clean and easy to work with.
 
-- 🌱 I’m currently learning **JavaScript, React, MongoDB & Node.js etc...**
+---
 
+## Tech Stack
 
-- 👨‍💻 All of my projects are available at [https://github.com/rockyhaque10](https://github.com/rockyhaque)
+**Languages:** JavaScript, TypeScript, Python, Node.js
 
+**Frontend:** React, Next.js, TailwindCSS
 
+**Backend:** Express.js, REST APIs, GraphQL
 
-- 💬 Ask me about **JavaScript, React, MongoDB & Node.js etc...**
+**Databases:** MongoDB, PostgreSQL
 
-- 📫 How to reach me **info.rockyhaque@gmail.com**
+**DevOps & Tools:** Docker, AWS, Git
 
+---
 
+## 📈 GitHub Analytics
 
-- 📄 Know about my experiences [https://github.com/rockyhaque](https://github.com/rockyhaque)
+<div align="center">
 
-- ⚡ Fun fact **I enjoy solving complex coding puzzles while sipping on a cup of freshly brewed coffee – the perfect blend of logic and caffeine!**
+<img src="https://github-readme-stats.vercel.app/api?username=rockyhaque&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=48f0e7&icon_color=48f0e7" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rockyhaque&theme=radical&hide_border=true&background=0d1117&stroke=48f0e7&ring=48f0e7&fire=48f0e7" width="48%" />
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rockyhaque&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=48f0e7" width="100%" />
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rockyhaque&" alt="rockyhaque"/></p>
+</div>
 
-<br><br>
+---
 
-<p align="center"> <a href="https://github.com/rockyhaque/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rockyhaque&row=1&column=6&theme=onedark" alt="rockyhaque" /></a> </p>
+## Work Experience
 
-<h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
-<p align="left">
-<a href="https://linkedin.com/in/in/rockyhaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/rockyhaque" height="30" width="40" /></a>
-<a href="https://instagram.com/rocky_haque.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rocky_haque.10" height="30" width="40" /></a>
-<a href="https://fb.com/rockyhaquee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rockyhaquee" height="30" width="40" /></a>
-</p>
-<br><br>
-<h2>Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-</a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="[https://www.w3.org/html/](https://git-scm.com/)" target="_blank" rel="noreferrer">
- </a> </p>
+**Iqra Wave** – Software Engineer
 
-<br><br>
+I'm working on AI-powered applications and building scalable backend infrastructure. The focus is on creating intelligent systems that can integrate with various APIs and handle complex business logic efficiently.
+
+**Ophelia Go** – Co-Founder
+
+Building products from the ground up. This involves everything from product design and technical architecture to marketing and user feedback loops. It's the full experience of what it takes to build and ship a product.
+
+---
+
+## Currently Learning
+
+Right now I'm diving deeper into advanced AI agent design patterns, LLM optimization, and how to build multi-agent systems that can work together effectively. On the infrastructure side, I'm exploring distributed systems design and microservices patterns to handle larger scale applications.
+
+---
+
+## What I Value
+
+I'm interested in writing code that's clean, performant, and easy to maintain. Security and reliability matter just as much as speed. I like working on problems that require thinking beyond just the code—understanding the business, the users, and how to create real impact.
+
+I'm always open to collaborating with other engineers, founders, and builders who are working on interesting problems. Whether it's discussing architecture, sharing ideas, or building something together, I enjoy connecting with people in the tech space.
+
+## Let's Connect
+
+Feel free to reach out if you want to collaborate, discuss ideas, or just chat about tech:
+
+[Website](https://www.rockyhaque.com) – [Email](mailto:info.rockyhaque@gmail.com) – [LinkedIn](https://www.linkedin.com/in/rockyhaque/) – [GitHub](https://github.com/rockyhaque)
 
 
 
