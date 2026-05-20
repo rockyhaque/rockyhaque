@@ -83,7 +83,7 @@ I'm always open to collaborating with other engineers, founders, and builders wh
 
 Feel free to reach out if you want to collaborate, discuss ideas, or just chat about tech:
 
-[Website](https://www.rockyhaque.com) – [Email](mailto:info.rockyhaque@gmail.com) – [LinkedIn](https://www.linkedin.com/in/rockyhaque/) – [GitHub](https://github.com/rockyhaque)
+[Website](https://www.rockyhaque.com) – [Email](mailto:info.rockyhaque@gmail.com) – [LinkedIn](https://www.linkedin.com/in/rockyhaque/)
 
 
 <p align="center">
