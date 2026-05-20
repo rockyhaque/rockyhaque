@@ -101,7 +101,7 @@
 
 - 💬 Ask me about **JavaScript, React, MongoDB & Node.js etc...**
 
-- 📫 How to reach me **rockyhaque71@gmail.com**
+- 📫 How to reach me **info.rockyhaque@gmail.com**
 
 
 
