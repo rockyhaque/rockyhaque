@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rockyhaque&style=flat-square&color=48f0e7&labelColor=091e27)
 
-Software Engineer @ Iqra Wave | Co-Founder @ Ophelia Go
+Software Engineer @ IqraWave | Co-Founder @ Ophelia Go
 
 [Website](https://www.rockyhaque.com) • [LinkedIn](https://www.linkedin.com/in/rockyhaque/) • [Email](mailto:info.rockyhaque@gmail.com)
 
