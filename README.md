@@ -86,15 +86,6 @@ Feel free to reach out if you want to collaborate, discuss ideas, or just chat a
 [Website](https://www.rockyhaque.com) – [Email](mailto:info.rockyhaque@gmail.com) – [LinkedIn](https://www.linkedin.com/in/rockyhaque/) – [GitHub](https://github.com/rockyhaque)
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rockyhaque&show_icons=true&locale=en&layout=compact" alt="rockyhaque" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rockyhaque&show_icons=true&locale=en" alt="rockyhaque" /></p>
-
-<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-</br>
-
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
