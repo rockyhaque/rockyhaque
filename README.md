@@ -6,7 +6,7 @@
 
 Software Engineer @ Iqra Wave | Co-Founder @ Ophelia Go
 
-[Website](https://www.rockyhaque.com) • [LinkedIn](https://www.linkedin.com/in/rockyhaque/) • [Email](mailto:info.rockyhaque@gmail.com) • [GitHub](https://github.com/rockyhaque)
+[Website](https://www.rockyhaque.com) • [LinkedIn](https://www.linkedin.com/in/rockyhaque/) • [Email](mailto:info.rockyhaque@gmail.com)
 
 </div>
 
